@@ -1,3 +1,7 @@
 selenium
 pandas
 webdriver-manager
+"--headless=new"
+"--no-sandbox"
+"--disable-dev-shm-usage"
+"--disable-blink-features=AutomationControlled"
