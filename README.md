@@ -13,7 +13,7 @@ Os dados coletados (dia, temperaturas máxima e mínima e condição climática)
 - Desenvolver um projeto multiplataforma (Windows e Linux).  
 
 ### Who (Quem?)
-- Desenvolvedor: Aluno de Ciência da Computação.  
+- Desenvolvedor: Alunos de Ciência da Computação.  
 - Usuário final: Qualquer pessoa que queira consultar previsões meteorológicas de forma automatizada.  
 - Tecnologias usadas:  
   - Python 3.13+  
@@ -36,9 +36,9 @@ Os dados coletados (dia, temperaturas máxima e mínima e condição climática)
 2. Executar o programa:
    python main.py
 
-3. Digitar o nome da cidade no formato pedido:  
-   - Exemplo: sao-paulo  
-   - Exemplo: rio-de-janeiro  
+3. Digitar o nome da cidade:  
+   - Exemplo: sao paulo  
+   - Exemplo: rio de janeiro  
 
 4. O resultado será salvo no arquivo:
    previsao.csv
